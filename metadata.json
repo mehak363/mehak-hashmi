@@ -1,0 +1,5 @@
+{
+  "name": "AI Employee Activity Monitoring Agent",
+  "description": "An AI-powered agent to monitor employee activity, track tasks, and generate performance reports. Admins can assign tasks, and employees can manage their work, with all activity logged for AI analysis.",
+  "requestFramePermissions": []
+}
